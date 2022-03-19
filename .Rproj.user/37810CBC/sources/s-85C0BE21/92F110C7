@@ -3,7 +3,7 @@
     "path": "~/Documents/house-blogger/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "4222649279",
     "contents": "",
     "dirty": false,
     "created": 1647729246616.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,11",
+        "cursorPosition": "0,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1647730643,
+    "lastKnownWriteTime": 1647732107,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1647730643405,
+    "last_content_update": 1647732107329,
     "read_only": false,
     "read_only_alternatives": []
 }
